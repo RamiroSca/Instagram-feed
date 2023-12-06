@@ -1,0 +1,51 @@
+body{
+    background-color: grey;
+}
+.grande{
+    margin-left: 28%;
+    margin-right: 50%;
+}
+.post1{
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 10%;
+}
+.post2{
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 10%;
+}
+.post3{
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 10%;
+}
+img{
+    width: 700px;
+    height: 350px;
+}
+.encabezado1,
+.encabezado2,
+.encabezado3{
+    display: flex;
+}
+.fecha {
+    color: grey;
+    float: right;
+}
+.titulo{
+    padding-left: 17px;
+    width: 570px;
+}
+p{
+    padding-left: 17px;
+}
